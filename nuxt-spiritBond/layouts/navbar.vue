@@ -2,7 +2,7 @@
     <nav class="bg-gray-900 py-4">
         <div class="container mx-auto flex justify-between items-center">
             <!-- Nombre del cine a la izquierda -->
-            <nuxt-link to="/" class="text-white text-2xl font-semibold">SpiritBond</nuxt-link>
+            <nuxt-link to="/" class="text-white text-2xl font-semibold">SpiritBound</nuxt-link>
             <!-- Botón para toggle de menú en dispositivos móviles -->
             <button @click="toggleMenu" class="block lg:hidden text-white focus:outline-none">
                 <svg class="h-6 w-6 fill-current" viewBox="0 0 24 24">
