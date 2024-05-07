@@ -1,5 +1,5 @@
 <template>
-    <nav class="bg-gray-900 py-4">
+    <nav class="bg-gray-900 py-4 absolute t-0 w-full">
         <div class="container mx-auto flex justify-between items-center">
             <!-- Nombre del cine a la izquierda -->
             <nuxt-link to="/" class="text-white text-2xl font-semibold">SpiritBound</nuxt-link>
