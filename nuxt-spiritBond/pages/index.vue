@@ -58,7 +58,7 @@
                     </div>
                 </div>
             </div>
-            <img class="w-[250px] h-[345px] -mt-9 -mb-4" src="assets/landing/SIBLINGS.png" alt="The brothers">
+            <img class="max-w-[250px] max-h-[345px] -mt-9 -mb-4" src="assets/landing/SIBLINGS.png" alt="The brothers">
         </div>
         <div class="min-h-screen lg:w-1/2 w-full flex flex-col items-center justify-center">
             <div class="inline-grid grid-cols-2 gap-3">
@@ -72,10 +72,10 @@
                     </p>
                 </div>
                 <div class="min-w-[300px] h-[175px]">
-                    <img src="" alt="KB">
+                    <img class="ml-9 -mt-3 max-w-[210px]" src="assets/landing/KB02.png" alt="KB">
                 </div>
                 <div class="min-w-[300px] h-[175px]">
-                    <img src="" alt="DESSIE">
+                    <img class="mr-9 -mt-3 max-w-[250px]" src="assets/landing/DESSIE.png" alt="DESSIE">
                 </div>
                 <div class="min-w-[300px] h-[175px] bg-gradient-to-br from-blue-600 to-black p-4">
                     <h3 class="text-2xl font-serif tracking-widest pb-3"
@@ -98,10 +98,10 @@
                     </p>
                 </div>
                 <div class="min-w-[300px] h-[175px]">
-                    <img src="" alt="GREN">
+                    <img class="ml-9 -mt-3 max-w-[210px]" src="assets/landing/GREN.png" alt="GREN">
                 </div>
                 <div class="min-w-[300px] h-[175px]">
-                    <img src="" alt="ANTON">
+                    <img class="mr-9 -mt-2 max-w-[240px]" src="assets/landing/ANTON.png" alt="ANTON">
                 </div>
                 <div class="min-w-[300px] h-[175px] bg-gradient-to-br from-blue-600 to-black p-4">
                     <h3 class="text-2xl font-serif tracking-widest pb-3"
