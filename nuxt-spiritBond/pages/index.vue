@@ -13,9 +13,9 @@
             </button>
         </div>
     </div>
-    <div class="lg:h-screen bg-black text-white lg:flex lg:flex-inline">
-        <div class="h-screen lg:w-1/2 w-full bg-gradient-to-br from-blue-600 to-blue-950 flex flex-col items-center justify-center">
-            <h2 class="text-center text-5xl font-serif tracking-widest -mt-9 pb-9"
+    <div class="min-h-screen bg-black text-white lg:flex lg:flex-inline">
+        <div class="min-h-screen lg:w-1/2 w-full bg-gradient-to-br from-blue-600 to-blue-950 flex flex-col items-center justify-center">
+            <h2 class="text-center text-5xl font-serif tracking-widest mt-9 pb-9"
                 style="text-shadow: 5px 3px 4px rgba(255, 255, 255, 0.9);">SPIRIT BOUND</h2>
             <div class="inline-grid grid-cols-2 gap-3 lg:gap-9 mt-4">
                 <div class="max-w-[300px] m-3 lg:m-6">
@@ -58,9 +58,9 @@
                     </div>
                 </div>
             </div>
-            <img class="mt-9" src="" alt="The brothers">
+            <img class="w-[250px] h-[345px] -mt-9 -mb-4" src="assets/landing/SIBLINGS.png" alt="The brothers">
         </div>
-        <div class="h-screen lg:w-1/2 w-full flex flex-col items-center justify-center">
+        <div class="min-h-screen lg:w-1/2 w-full flex flex-col items-center justify-center">
             <div class="inline-grid grid-cols-2 gap-3">
                 <div class="min-w-[300px] h-[175px] bg-gradient-to-br from-blue-600 to-black p-4">
                     <h3 class="text-2xl font-serif tracking-widest pb-3"
