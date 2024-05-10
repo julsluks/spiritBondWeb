@@ -51,14 +51,14 @@
                     <h3 class="text-2xl font-serif tracking-widest pb-3"
                         style="text-shadow: 5px 3px 4px rgba(255, 255, 255, 0.9);">PEGI</h3>
                     <div class="inline-grid grid-cols-2 gap-5 m-3">
-                        <img class="w-[75px]" src="assets/icons/12_PEGI.png" alt="Age_12">
-                        <img class="w-[75px]" src="assets/icons/Discrimination_PEGI.jpg" alt="Discrimination">
-                        <img class="w-[75px]" src="assets/icons/FEAR_PEGI.jpg" alt="Fear">
-                        <img class="w-[75px]" src="assets/icons/Violence_PEGI.jpg" alt="Violence">
+                        <img class="w-[75px]" src="public/assets/icons/12_PEGI.png" alt="Age_12">
+                        <img class="w-[75px]" src="public/assets/icons/Discrimination_PEGI.jpg" alt="Discrimination">
+                        <img class="w-[75px]" src="public/assets/icons/FEAR_PEGI.jpg" alt="Fear">
+                        <img class="w-[75px]" src="public/assets/icons/Violence_PEGI.jpg" alt="Violence">
                     </div>
                 </div>
             </div>
-            <img class="max-w-[250px] max-h-[345px] -mt-9 -mb-4" src="assets/landing/SIBLINGS.png" alt="The brothers">
+            <img class="max-w-[250px] max-h-[345px] -mt-9 -mb-4" src="public/assets/landing/SIBLINGS.png" alt="The brothers">
         </div>
         <div class="min-h-screen py-9 lg:w-1/2 w-full flex flex-col items-center justify-center">
             <div class="inline-grid grid-cols-2 gap-3">
@@ -72,10 +72,10 @@
                     </p>
                 </div>
                 <div class="min-w-[250px] h-[175px]">
-                    <img class="ml-9 -mt-3 max-w-[210px]" src="assets/landing/KB02.png" alt="KB">
+                    <img class="ml-9 -mt-3 max-w-[210px]" src="public/assets/landing/KB02.png" alt="KB">
                 </div>
                 <div class="min-w-[250px] h-[175px]">
-                    <img class="mr-9 -mt-3 max-w-[250px]" src="assets/landing/DESSIE.png" alt="DESSIE">
+                    <img class="mr-9 -mt-3 max-w-[250px]" src="public/assets/landing/DESSIE.png" alt="DESSIE">
                 </div>
                 <div class="min-w-[250px] h-[175px] bg-gradient-to-br from-blue-600 to-black p-4">
                     <h3 class="text-2xl font-serif tracking-widest pb-3"
@@ -98,10 +98,10 @@
                     </p>
                 </div>
                 <div class="min-w-[250px] h-[175px]">
-                    <img class="ml-9 -mt-3 max-w-[210px]" src="assets/landing/GREN.png" alt="GREN">
+                    <img class="ml-9 -mt-3 max-w-[210px]" src="public/assets/landing/GREN.png" alt="GREN">
                 </div>
                 <div class="min-w-[250px] h-[175px]">
-                    <img class="mr-9 -mt-2 max-w-[240px]" src="assets/landing/ANTON.png" alt="ANTON">
+                    <img class="mr-9 -mt-2 max-w-[240px]" src="public/assets/landing/ANTON.png" alt="ANTON">
                 </div>
                 <div class="min-w-[250px] h-[175px] bg-gradient-to-br from-blue-600 to-black p-4">
                     <h3 class="text-2xl font-serif tracking-widest pb-3"
@@ -133,7 +133,7 @@ export default {
 
 <style scoped>
 .bg-background-image {
-    background-image: url("assets/backgrounds/BACKGROUND.png");
+    background-image: url("public/assets/backgrounds/BACKGROUND.png");
     background-size: cover;
     background-position: center;
 }
