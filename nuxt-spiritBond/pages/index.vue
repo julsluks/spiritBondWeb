@@ -1,6 +1,6 @@
 <template>
     <div class="bg-background-image flex flex-col items-center justify-center h-screen text-white">
-        <h1 class="text-6xl font-serif font-bold tracking-widest mb-4" style="text-shadow: 5px 3px 4px rgba(255, 255, 255, 0.9);">SPIRIT BOUND</h1>
+        <h1 class="text-6xl font-serif font-bold tracking-widest mb-4 text-center" style="text-shadow: 5px 3px 4px rgba(255, 255, 255, 0.9);">SPIRIT BOUND</h1>
         <h4 class="text-xl font-serif font-extralight tracking-widest text-center">
             <!-- <span class="text-sm inline-block align-middle">&lt;&lt;</span>--> SURVIVE AND ESCAPE
             <!-- <span class="text-sm inline-block align-middle">&gt;&gt;</span>-->
@@ -62,7 +62,7 @@
         </div>
         <div class="min-h-screen py-9 lg:w-1/2 w-full flex flex-col items-center justify-center">
             <div class="inline-grid grid-cols-2 gap-3">
-                <div class="min-w-[250px] h-[175px] bg-gradient-to-br from-blue-600 to-black p-4">
+                <div class="lg:min-w-[250px] lg:h-[175px] bg-gradient-to-br from-blue-600 to-black p-4">
                     <h3 class="text-2xl font-serif tracking-widest pb-3"
                         style="text-shadow: 5px 3px 4px rgba(255, 255, 255, 0.9);">KB</h3>
                     <p class="text-base ml-3">
@@ -71,13 +71,13 @@
                         DWARF
                     </p>
                 </div>
-                <div class="min-w-[250px] h-[175px]">
-                    <img class="ml-9 -mt-3 max-w-[210px]" src="public/assets/landing/KB02.png" alt="KB">
+                <div class="lg:min-w-[250px] lg:h-[175px]">
+                    <img class="lg:ml-9 -mt-3 max-w-[210px]" src="public/assets/landing/KB02.png" alt="KB">
                 </div>
-                <div class="min-w-[250px] h-[175px]">
-                    <img class="mr-9 -mt-3 max-w-[250px]" src="public/assets/landing/DESSIE.png" alt="DESSIE">
+                <div class="lg:min-w-[250px] lg:h-[175px]">
+                    <img class="lg:mr-9 -mt-3 max-w-[250px]" src="public/assets/landing/DESSIE.png" alt="DESSIE">
                 </div>
-                <div class="min-w-[250px] h-[175px] bg-gradient-to-br from-blue-600 to-black p-4">
+                <div class="lg:min-w-[250px] lg:h-[175px] bg-gradient-to-br from-blue-600 to-black p-4">
                     <h3 class="text-2xl font-serif tracking-widest pb-3"
                         style="text-shadow: 5px 3px 4px rgba(255, 255, 255, 0.9);">DESSIE</h3>
                     <p class="text-base ml-3">
@@ -87,7 +87,7 @@
                         DWARF
                     </p>
                 </div>
-                <div class="min-w-[250px] h-[175px] bg-gradient-to-br from-blue-600 to-black p-4">
+                <div class="lg:min-w-[250px] lg:h-[175px] bg-gradient-to-br from-blue-600 to-black p-4">
                     <h3 class="text-2xl font-serif tracking-widest pb-3"
                         style="text-shadow: 5px 3px 4px rgba(255, 255, 255, 0.9);">GREN</h3>
                     <p class="text-base ml-3">
@@ -97,13 +97,13 @@
                         GIANT
                     </p>
                 </div>
-                <div class="min-w-[250px] h-[175px]">
-                    <img class="ml-9 -mt-3 max-w-[210px]" src="public/assets/landing/GREN.png" alt="GREN">
+                <div class="lg:min-w-[250px] lg:h-[175px]">
+                    <img class="lg:ml-9 -mt-3 max-w-[210px]" src="public/assets/landing/GREN.png" alt="GREN">
                 </div>
-                <div class="min-w-[250px] h-[175px]">
-                    <img class="mr-9 -mt-2 max-w-[240px]" src="public/assets/landing/ANTON.png" alt="ANTON">
+                <div class="lg:min-w-[250px] lg:h-[175px]">
+                    <img class="lg:mr-9 -mt-2 max-w-[240px]" src="public/assets/landing/ANTON.png" alt="ANTON">
                 </div>
-                <div class="min-w-[250px] h-[175px] bg-gradient-to-br from-blue-600 to-black p-4">
+                <div class="lg:min-w-[250px] lg:h-[175px] bg-gradient-to-br from-blue-600 to-black p-4">
                     <h3 class="text-2xl font-serif tracking-widest pb-3"
                         style="text-shadow: 5px 3px 4px rgba(255, 255, 255, 0.9);">ANTON</h3>
                     <p class="text-base ml-3">
