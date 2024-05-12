@@ -4,7 +4,7 @@
         <h1 class="text-6xl font-serif font-bold tracking-widest mb-4"
             style="text-shadow: 5px 3px 4px rgba(255, 255, 255, 0.9);">HOW TO PLAY</h1>
         <div class="min-h-1/2 w-full mt-9">
-            <div class="flex flex-col items-center justify-center">
+            <div class="flex flex-col items-center justify-center m-4">
                 <p class="text-lg tracking-widest mb-4 text-center bg-blue-950 bg-opacity-30 p-5 rounded-lg">
                     It's played using the keyboard. With the
                     “A” key to move left, the “D” key to move right, <br> and if you press “Shift” you can change the
@@ -13,11 +13,14 @@
                     the control,<br> we also want to implement an Xbox controller.
                 </p>
             </div>
-            <div class="flex flex-col lg:flex-inline items-center justify-center mt-9">
-                <div>
-                    <img src="" alt="">
+            <div class="lg:flex lg:flex-inline items-center justify-center mt-9">
+                <div class="lg:min-w-[300px] mx-7 my-4">
+                    <!-- <img src="public/assets/howToPlay/keyboard.png" alt="Keyboard"> -->
                 </div>
-                <iframe width="610" height="365" src="https://www.youtube-nocookie.com/embed/_QdnSEdgsCo?si=CBVU74XmYlOEIKHd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                <iframe class="lg:min-w-[610px] lg:min-h-[365px] md:min-w-[410px] md:min-h-[250px] mx-7 my-4" src="https://www.youtube-nocookie.com/embed/_QdnSEdgsCo?si=CBVU74XmYlOEIKHd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                <div class="lg:min-w-[300px] mx-7 my-4">
+                    <img src="public/assets/howToPlay/gamePadXbox.png" alt="Xbox Controller">
+                </div>
             </div>
         </div>
     </div>
