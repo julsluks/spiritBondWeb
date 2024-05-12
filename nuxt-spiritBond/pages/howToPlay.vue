@@ -18,12 +18,14 @@
                     To play with a controller, the square is used to interact and the <br> “X” is used to jump, and the left joystick is used to walk/run.
                 </p>
             </div>
-            <div class="lg:flex lg:flex-inline items-center justify-center mt-9">
-                <div class="lg:min-w-[300px] mx-7 my-4">
-                    <!-- <img src="public/assets/howToPlay/keyboard.png" alt="Keyboard"> -->
+            <div class="lg:flex lg:items-center lg:justify-center mt-9">
+                <div class="lg:w-1/4 mx-4 my-4 flex items-center justify-center">
+                    <img src="public/assets/howToPlay/keyboard.png" alt="Keyboard">
                 </div>
-                <iframe class="lg:min-w-[610px] lg:min-h-[365px] md:min-w-[410px] md:min-h-[250px] mx-7 my-4" src="https://www.youtube-nocookie.com/embed/_QdnSEdgsCo?si=CBVU74XmYlOEIKHd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-                <div class="lg:min-w-[300px] mx-7 my-4">
+                <div class="lg:w-1/2 lg:min-w-[610px] lg:min-h-[365px] md:min-w-[410px] md:min-h-[250px] mx-4 my-4 flex items-center justify-center">
+                    <iframe class="lg:w-1/2 lg:min-w-[610px] lg:min-h-[365px] md:min-w-[410px] md:min-h-[250px]" src="https://www.youtube-nocookie.com/embed/_QdnSEdgsCo?si=CBVU74XmYlOEIKHd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                </div>
+                <div class="lg:w-1/4 mx-4 my-4 flex items-center justify-center">
                     <img src="public/assets/howToPlay/gamePadXbox.png" alt="Xbox Controller">
                 </div>
             </div>
